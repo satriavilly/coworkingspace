@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/controllers/User.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/views/home.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/views/view_nilai_ekstrakulikuler.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/controllers/Jadwal.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/views/KelolaPembuatanJasa.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/views/KelolaMitra.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/views/input_data_kehadiran.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/views/input_nilai_ekstrakulikuler.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/controllers/Dashboard.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/views/MonitoringDataPropertie.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/views/PengadaanBarang.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/models/KelolaJasa_model.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/models/KelolaMitra_model.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/views/LaporanPropertie.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/controllers/NilaiEkstrakulikuler.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/models/User_model.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/controllers/KelolaPegawai.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/views/KelolaPegawai.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/controllers/MonitoringDataPropertie.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/views/KelolaJasa.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/models/NilaiEkstrakulikuler_model.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/controllers/KelolaJasa.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/controllers/KelolaMitra.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/models/KelolaPegawai_model.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/controllers/PengadaanBarang.php</file>
+            <file>file:/C:/xampp/htdocs/coworkingspace/application/models/PengadaanBarang_model.php</file>
+        </group>
+    </open-files>
+</project-private>
